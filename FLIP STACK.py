@@ -10,6 +10,7 @@ class Stack(object):
         self.stack = list
 
     def peek(self):
+
         if self.is_empty():
             return None
         return self.stack[-1]

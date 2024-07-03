@@ -5,5 +5,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\PYTHON - 3.12.1" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="analyzeDoctest" value="false" />
+  </component>
+  <component name="ReSTService">
+    <option name="TXT_IS_RST" value="true" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
 </module>
-
